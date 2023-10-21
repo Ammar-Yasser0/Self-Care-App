@@ -1,1 +1,3 @@
-# Self-Care-App
+# Self_Care_App
+
+## Project Notes
